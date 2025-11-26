@@ -1,0 +1,23 @@
+/* Selector universal */
+*{
+    margin:  0;
+    padding: 0;
+}
+*/ Selector de etiqueta */
+body {
+    background-color: aquamarine;
+    color:beige
+}
+/* Selector ID */
+#social.icons{
+    background-color: rgb(126, 28, 28);
+}
+/*  Selectores avanzados */
+#social-icons .btn{
+    border-radius: 18;
+}
+/* Pseudoclase */
+.btn :hover{
+    background-color: rgb(158, 95, 218);
+    color: #fff;
+}
