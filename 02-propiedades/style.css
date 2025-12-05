@@ -25,9 +25,9 @@ font-style: oblique
   font-style: oblique;
   font-weight: bolder;
 }
-.purple{color:rgb(93, 93, 153)}
-.orange{color: rgb(255, 166, 0);}
-.celeste{color: rgb(154, 255, 255)}
+.purple{color:blueviolet}
+.orange{color: orange;}
+.celeste{color: aqua}
 
 .text-style{
   font-family: monospace;
